@@ -23,7 +23,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/simple-icons/pandas.svg?color=%23bee2fd" alt="pandas" width="40" height="40"/> </a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomes540&show_icons=true&locale=en&theme=dark" alt="gomes540" /></p>
+<h5 align="center"> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomes540&show_icons=true&locale=en&theme=dark" alt="gomes540" /></p>
 
 
 
