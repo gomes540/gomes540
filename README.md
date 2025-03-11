@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Gomes</h1>
 <h3 align="center">I'm Data Engineer</h3>
 
-- 🔭 I’m currently working on [Cayena](https://www.cayena.com/)
+- 🔭 I’m currently working on [RD Station](https://www.rdstation.com/)
 
 - 👨‍💻 All of my projects are available at [https://gomes540.github.io/felipegomes/](https://gomes540.github.io/felipegomes/)
 
